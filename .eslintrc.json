@@ -1,0 +1,30 @@
+{
+  "env": {
+    "browser": true,
+    "commonjs": true,
+    "es2021": true
+  },
+  "extends": [
+  ],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaVersion": "latest"
+  },
+  "plugins": [
+    "@typescript-eslint"
+  ],
+  "rules": {
+    "quotes":"off",
+    "semi":"error",
+    "no-undef":"error",
+    "eqeqeq":"warn",
+    "no-invalid-regexp":"error",
+    "no-extra-parens":"error",
+    "no-extra-semi":"error",
+    "no-unexpected-multiline":"error",
+    "use-isnan":"error",
+    "no-useless-concat":"error",
+    "no-useless-escape":"error",
+    "no-useless-return":"error"
+  }
+}
