@@ -5,8 +5,8 @@ export default {
       "en-us":"now"
     },
     hoursAgo:{
-      "ja-jp":"分前",
-      "en-us":"minutes ago"
+      "ja-jp":"時間前",
+      "en-us":"hours ago"
     },
     minutesAgo:{
       "ja-jp":"分前",
