@@ -26,5 +26,5 @@ app.use((req, res, next) => {
 const port = process.env.PORT || 8080;
 
 app.listen(port, () => {
-  console.log(`起動しました！ ポート->${port}`);
+  console.log(`起動しました! ポート->${port}`);
 });

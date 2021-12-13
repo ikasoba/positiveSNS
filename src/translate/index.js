@@ -12,7 +12,7 @@ export default {
       "ja-jp":"分前",
       "en-us":"minutes ago"
     },
-    yestersday:{
+    yesterday:{
       "ja-jp":"昨日",
       "en-us":"yesterday"
     },
