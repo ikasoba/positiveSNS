@@ -1,0 +1,9 @@
+.homeMain {
+  display: flex;
+  flex-direction: row;
+}
+
+.column {
+  width: 100%;
+  height: 100%;
+}

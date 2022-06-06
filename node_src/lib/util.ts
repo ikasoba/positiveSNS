@@ -1,0 +1,1 @@
+export const notNull = <T>(v:any,struct:boolean|number=false):v is T=>struct ?  v!==null : v!=null

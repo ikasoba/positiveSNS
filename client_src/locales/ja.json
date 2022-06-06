@@ -1,0 +1,28 @@
+{
+  "time":{
+    "sec":"秒",
+    "min":"分",
+    "hour":"時間",
+    "day":"日",
+    "month":"月",
+    "year":"年"
+  },
+  "loginForm":{
+    "email":"メール",
+    "password":"パスワード",
+    "login":"ログイン"
+  },
+  "button":{
+    "delete":"削除する",
+    "share":"シェアする",
+    "copy_link":"リンクをコピー"
+  },
+  "settings":{
+
+    "account":"アカウント",
+    "delete_account":"アカウントを削除する",
+
+    "message":"メッセージ",
+    "message_all_delete":"メッセージをすべて削除する"
+  }
+}
